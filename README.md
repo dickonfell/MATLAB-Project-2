@@ -1,2 +1,2 @@
 # MATLAB-Project-2
-The second of three projects for my 'Problem Solving by Computer' module in my third year of university.
+This project is the second of three I am completing for my Problem Solving by Computer module in my third year at university. I was tasked with using MATLAB to model the dynamics between a fox and rabbit. The .pdf write up of the project is included.
